@@ -11,8 +11,7 @@ int main(){
     {        
         cin >> arr[i];
     }
-
-    int counter = 0;
+    
     for (int i = 1; i < n; i++)
     {
         int current = arr[i];
